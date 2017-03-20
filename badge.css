@@ -1,0 +1,9 @@
+.success {
+  background-color: #4bca81;
+  color: #ffffff;
+}
+
+.danger {
+  background-color: #d4504c;
+  color: #ffffff;
+}
